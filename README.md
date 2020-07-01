@@ -3,7 +3,7 @@
 > ** Sign Up and Sign In with JSON Web Tokens (JWT) in .NET Core 3.1**
 
 <a href="https://github.com/nelsonstj">
-  <img alt="Autor" src="https://img.shields.io/badge/autor-NelsonSturaroJunior-004400?style=flat-square">
+  <img alt="Autor" src="https://img.shields.io/badge/autor-Nelson%20Sturaro%20Junior-004400?style=flat-square">
 </a>
 
 <a href="#">
@@ -65,7 +65,7 @@ Chamada JSon:
     <img src="https://img.shields.io/badge/LinkedIn-Nelson%20Sturaro%20Junior-blue?logo=linkedin"/>
   </a>
   <a alt="Nelson Sturaro Junior - GitHub" href="https://github.com/nelsonstj">
-    <img src="https://img.shields.io/badge/GitHub-nelsonstj-lightgrey?logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-nelsonstj-blue?logo=github"/>
   </a>
   <a alt="Nelson Sturaro Junior - Twitter" href="https://twitter.com/nelsonstj" target="blank">
     <img src="https://img.shields.io/badge/Twitter-nelsonstj-blue?logo=twitter"/>
