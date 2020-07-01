@@ -41,12 +41,17 @@ Entrar com usuário e senha, validando as informações e retornando mensagem e 
 - Injeção de dependência
 
 ## ⛏ Ferramentas:
-- Visual Studio Code (https://code.visualstudio.com/download)
-- Postman (https://www.postman.com/downloads)
+- [Visual Studio Code] (https://code.visualstudio.com/download)
+- [Postman] (https://www.postman.com/downloads)
 
 ## 🏁 Executar esse projeto:
 Para funcionar precisa ajustar acesso a banco de dados SQL Server e criação da tabela de usuário.
 
+Chamada JSon:
+{
+     "loginOrEmail": "xxxxxxxxx",
+     "password": "123456"
+}
 <br/>
 
 ---
