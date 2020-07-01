@@ -26,7 +26,7 @@
   <img alt="Commits" src="https://img.shields.io/github/last-commit/nelsonstj/jwt.netCore?color=004400&style=flat-square">
 </a>
 
-<br/><br/>
+<br/>
 <hr/>
 
 ## 💡 Sobre o projeto:
@@ -41,8 +41,8 @@ Entrar com usuário e senha, validando as informações e retornando mensagem e 
 - Injeção de dependência
 
 ## ⛏ Ferramentas:
-- [Visual Studio Code] (https://code.visualstudio.com/download)
-- [Postman] (https://www.postman.com/downloads)
+- Visual Studio Code (https://code.visualstudio.com/download)
+- Postman (https://www.postman.com/downloads)
 
 ## 🏁 Executar esse projeto:
 Para funcionar precisa ajustar acesso a banco de dados SQL Server e criação da tabela de usuário.
@@ -61,11 +61,11 @@ Chamada JSon:
 </h3>
 
 <p align="center">
-  <a alt="Nelson Sturaro Junior - Linkedin" href="https://www.linkedin.com/in/nelsonstj/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Nelson%20Sturaro%20Junior-blue?logo=linkedin"/>
-  </a>
   <a alt="Nelson Sturaro Junior - GitHub" href="https://github.com/nelsonstj">
     <img src="https://img.shields.io/badge/GitHub-nelsonstj-blue?logo=github"/>
+  </a>
+  <a alt="Nelson Sturaro Junior - Linkedin" href="https://www.linkedin.com/in/nelsonstj" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Nelson%20Sturaro%20Junior-blue?logo=linkedin"/>
   </a>
   <a alt="Nelson Sturaro Junior - Twitter" href="https://twitter.com/nelsonstj" target="blank">
     <img src="https://img.shields.io/badge/Twitter-nelsonstj-blue?logo=twitter"/>
