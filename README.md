@@ -33,7 +33,7 @@
 Projeto de exemplo para realizar login utilizando JWT para autenticação e permissão de acesso utilizando API em .Net Core 3.1.
 
 ## 🔥 Quais são as funcionalidades?
-Entrar com usuário e senha, validando as informações e retornando a permissão ou não à API.
+Entrar com usuário e senha, validando as informações e retornando mensagem e Token caso tenha permissão ou mensagem caso não tenha permissão à API.
 
 ## ⚙️ Techs:
 - .Net Core 3.1
@@ -45,7 +45,7 @@ Entrar com usuário e senha, validando as informações e retornando a permissã
 - Postman (https://www.postman.com/downloads)
 
 ## 🏁 Executar esse projeto:
-Para funcionar precisa ajustar para acesso a banco de dados SQL Server e criação da tabela de usuário.
+Para funcionar precisa ajustar acesso a banco de dados SQL Server e criação da tabela de usuário.
 
 <br/>
 
