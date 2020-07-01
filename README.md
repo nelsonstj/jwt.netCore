@@ -3,7 +3,7 @@
 > ** Sign Up and Sign In with JSON Web Tokens (JWT) in .NET Core 3.1**
 
 <a href="https://github.com/nelsonstj">
-  <img alt="Autor" src="https://img.shields.io/badge/autor-Nelson Sturaro Junior-004400?style=flat-square">
+  <img alt="Autor" src="https://img.shields.io/badge/autor-NelsonSturaroJunior-004400?style=flat-square">
 </a>
 
 <a href="#">
